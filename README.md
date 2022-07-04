@@ -43,8 +43,6 @@ rm -r apache2
 
 ```sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl```
 
-Depois você vera um tela.
-Não selecionar nada.
 Se você for solicitado a escolher um servidor da web, já que não há opção para Nginx, pressione  TAB e  ENTER 
 para continuar sem selecionar um servidor da web.
 Na proxima tela selecione YES para continuar.
