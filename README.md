@@ -62,7 +62,8 @@ Depois de instalado vamos configurar o Nginx, então no terminal digite o seguin
 
 Edite o objeto server o deixando desta maneira:
 
-```server {
+```
+server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
 
