@@ -1,6 +1,6 @@
 # Anotações de desenvolvimento
 ### Configurando o webserver
- ***[Linux - Ubuntu/Debian] Nginx + MySQL + AAC:***
+ ***[Linux - Ubuntu/Debian] Nginx + MySQL:***
 
  ## 1 - Instalação - Nginx:  
 ```
