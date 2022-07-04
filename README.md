@@ -41,7 +41,7 @@ rm -r apache2
 ```
 ## 4 - Instalação - phpMyAdmin:
 
-``sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl```
+```sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl```
 
 Depois você vera um tela.
 Não selecionar nada.
